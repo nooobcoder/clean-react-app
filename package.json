@@ -1,5 +1,5 @@
 {
-  "name": "quiz-app-typescript",
+  "name": "clean-ts-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -57,5 +57,17 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^2.3.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx}": [
+      "eslint",
+      "pretty-quick — staged",
+      "git add"
+    ]
   }
 }
