@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adf7166c-5c01-42f8-96bf-adb2deaf8378" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/quiz-app-typescript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/components/base-component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/components/project-input.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/components/project-item.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/components/project-list.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/decorators/autobind.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/models/drag-drop.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/models/project.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/state/project-state.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/src/util/validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/10-modules-namespaces/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/components/base-component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/components/project-input.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/components/project-item.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/components/project-list.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/decorators/autobind.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/models/drag-drop.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/models/project.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/state/project-state.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/src/util/validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/webpack.config.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/11-webpack-with-typescript/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/basics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/basics.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/function-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/function-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/objs-arrays-enums.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/objs-arrays-enums.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/union-aliases.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/union-aliases.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/TypeScriptTypes/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/helloWorld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/src/helloWorld.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/2-Typescript-Basics/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/CompilerConfiguration/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/helloWorld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/src/helloWorld.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/3-The-TypeScript-Compiler/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/src/NextgenJavascriptTypescript/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/4-NextgenJavascriptTypescript/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/dist/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/dist/classes.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/src/classes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/5-classes-interfaces/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/typecasting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/typecasting.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/union.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/dist/union.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/6-advanced-types/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/7-generics/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/8-decorators/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../other-branches/9-drag-drop-project/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/index.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.prettierrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.eslintrc.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1veYNAZDgwVpT1QKeZleQaKZlH5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Serve React App" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf7166c-5c01-42f8-96bf-adb2deaf8378" name="Changes" comment="" />
+      <created>1626923980177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626923980177</updated>
+      <workItem from="1626923982653" duration="4038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

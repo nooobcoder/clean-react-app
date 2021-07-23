@@ -5,8 +5,9 @@ root = true
 [*]
 
 charset = utf-8
+quote_type = double
 
-end_of_line = lf
+end_of_line = crlf
 
 indent_size = 2
 
@@ -29,3 +30,4 @@ trim_trailing_whitespace = false
 # Use tabs for indentation (Makefiles require tabs)
 
 indent_style = tab
+

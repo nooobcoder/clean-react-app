@@ -1,5 +1,5 @@
 {
-  "name": "clean-ts-react-app",
+  "name": "clean-react-app-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,9 +8,11 @@
     "@types/react": "^17.0.14",
     "@types/react-dom": "^17.0.9",
     "@typescript-eslint/parser": "^4.28.4",
+    "prop-types": "^15.7.2",
     "react": "^18.0.0-alpha-9ab90de60-20210720",
     "react-dom": "^18.0.0-alpha-9ab90de60-20210720",
     "react-scripts": "4.0.3",
+    "styled-components": "^5.3.0",
     "typescript": "^4.3.5",
     "web-vitals": "^2.1.0"
   },
@@ -56,6 +58,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^1.7.0",
+    "eslint-plugin-spellcheck": "^0.0.19",
     "prettier": "^2.3.2"
   },
   "husky": {
