@@ -1,18 +1,19 @@
 {
   "name": "amazon-clone",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "scripts": {
-"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "next lint",
-		"telemetry:disable": "next telemetry disable",
-		"telemetry:enable": "next telemetry enable",
-		"telemetry:status": "next telemetry status"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "telemetry:disable": "next telemetry disable",
+    "telemetry:enable": "next telemetry enable",
+    "telemetry:status": "next telemetry status"
   },
   "dependencies": {
-    "next": "11.1.0",
+    "next": "^11.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
