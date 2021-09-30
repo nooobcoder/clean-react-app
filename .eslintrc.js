@@ -6,7 +6,7 @@ module.exports = {
     'plugin:jest/recommended',
     'plugin:prettier/recommended',
   ],
-  plugins: ['react', '@typescript-eslint', 'jest', 'spellcheck'],
+  plugins: ['react', '@typescript-eslint', 'jest', 'import', 'spellcheck'],
   env: {
     browser: true,
     es6: true,
