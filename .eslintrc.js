@@ -5,6 +5,7 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:jest/recommended',
     'plugin:prettier/recommended',
+    'prettier',
   ],
   plugins: ['react', '@typescript-eslint', 'jest', 'import', 'spellcheck'],
   env: {
@@ -26,6 +27,8 @@ module.exports = {
     project: './tsconfig.json',
   },
   rules: {
+    'simple-import-sort/imports': 'warn',
+    'simple-import-sort/exports': 'warn',
     'no-bitwise': 'off',
     'import/no-cycle': 'off',
     semi: [1, 'always'],
