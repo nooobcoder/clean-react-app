@@ -29,6 +29,19 @@ const root = createRoot(container);
 root.render(<App {...props} />);
 ```
 
+## Running the project on port 2000
+```shell
+npm install
+npm run start
+```
+> That's it ✌🏽 (Installing the dependencies might take time, depending upon your workstation's computing power and network bandwidth available).
+
+**After `npm run start` open: [ReactApp🔗](http://127.0.0.1:2000) **
+
+---
+
+### Advanced Implementations ahead (skip if not needed)
+
 **Please checkout the branch as per your requirement, currently the branches are:**
 
 1.  **NextJS with Tailwind** `nextjs-tailwind` -> https://github.com/nooobcoder/clean-react-app/tree/nextjs-tailwind
