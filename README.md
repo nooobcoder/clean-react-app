@@ -26,7 +26,7 @@ Please read the [docs](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guid
 import { createRoot } from 'react-dom/client';
 const container = document.getElementById('app');
 const root = createRoot(container);
-root.render(<App tab="home" />);
+root.render(<App {...props} />);
 ```
 
 **Please checkout the branch as per your requirement, currently the branches are:**
