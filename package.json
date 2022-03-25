@@ -7,7 +7,7 @@
   "scripts": {
     "pre-commit": "lint-staged",
     "lint": "eslint \"src/**/*.{js,jsx}\" --max-warnings=0",
-    "start": "node builder.js --port 4848 --host 0.0.0.0",
+    "start": "node builder.js",
     "build": "NODE_ENV=production node builder.js"
   },
   "dependencies": {
