@@ -28,6 +28,7 @@
     "concurrently": "6.0.1",
     "create-serve": "1.0.1",
     "esbuild": "0.11.5",
+    "esbuild-css-modules-plugin": "^2.2.15",
     "rimraf": "3.0.2",
     "typescript": "4.2.3"
   }
