@@ -1,24 +1,41 @@
 {
-  "name": "esbuild-react",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "type": "module",
-  "scripts": {
-    "es": "node -r esbuild-register",
-    "build": "esbuild src/app.tsx --bundle --minify --sourcemap --outfile=public/bundle.js",
-    "start": "node esbuild.config.js -w"
-  },
-  "devDependencies": {
-    "@types/react": "^18.0.3",
-    "@types/react-dom": "^18.0.0",
-    "esbuild": "^0.14.36",
-    "esbuild-register": "^3.3.2",
-    "typescript": "^4.6.3"
-  },
+  "name": "with-passwordless",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "esbuild-serve": "^1.0.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^2.7.1",
+    "prettier": "^2.6.2",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.4.2",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

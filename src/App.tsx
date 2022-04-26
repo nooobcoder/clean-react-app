@@ -1,23 +1,26 @@
-import React, { useCallback, useState } from "react";
+import React from 'react'
+import logo from './logo.svg'
+import './App.css'
 
-type Props = {
-	message: string;
-};
+function App() {
+  return (
+    <div className='App'>
+      <header className='App-header'>
+        <img src={logo} className='App-logo' alt='logo' />
+        <p>
+          Edit <code>src/App.tsx</code> and save to reload.
+        </p>
+        <a
+          className='App-link'
+          href='https://reactjs.org'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  )
+}
 
-const App = (props: Props) => {
-	const [count, setCount] = useState(0);
-
-	const increment = useCallback(() => setCount(count + 1), [count]);
-	const decrement = useCallback(() => setCount(count - 1), [count]);
-
-	return (
-		<>
-			<h1>Hello Word Esbuild + React + TypeScript </h1>
-			<p>{count}</p>
-			<button onClick={increment}>+</button>
-			<button onClick={decrement}>-</button>
-		</>
-	);
-};
-
-export default App;
+export default App
