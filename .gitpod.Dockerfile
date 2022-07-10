@@ -8,8 +8,8 @@ USER root
 
 # Install bun
 RUN curl -fsSL https://bun.sh/install | bash
-RUN echo 'export BUN_INSTALL="/home/gitpod/.bun"' >> /home/gitpod/.bashrc.d/600-bun | bash && \
-    echo 'export PATH="$BUN_INSTALL/bin:$PATH"' >> /home/gitpod/.bashrc.d/600-bun | bash
+RUN echo 'export BUN_INSTALL="/home/gitpod/.bun"' >> /home/gitpod/.zshrc | bash && \
+    echo 'export PATH="$BUN_INSTALL/bin:$PATH"' >> /home/gitpod/.zshrc | bash
 
 RUN curl -fsSL https://pkgs.tailscale.com/stable/ubuntu/focal.gpg | sudo apt-key add - \
      && curl -fsSL https://pkgs.tailscale.com/stable/ubuntu/focal.list | sudo tee /etc/apt/sources.list.d/tailscale.list \
