@@ -1,11 +1,18 @@
+**/*.trace
+**/*.zip
+**/*.tar.gz
+**/*.tgz
+**/*.log
+
+package-lock.json
+**/*.bun
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
-
-dist
 
 # testing
 /coverage
@@ -23,6 +30,3 @@ dist
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Eclude JetBrains config directory
-.idea
